@@ -1,0 +1,1 @@
+<div>This is a basic website made with node.js</div>
